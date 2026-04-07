@@ -1,0 +1,7 @@
+
+        Hello, please contact us at support@codealpha.tech for help.
+        You can also reach john.doe@gmail.com or jane_smith@yahoo.com.
+        Our sales team is at sales@company.org and info@business.net.
+        Invalid emails like @nodomain or noatsign.com are ignored.
+        Another valid one: intern2024@python.dev
+        
